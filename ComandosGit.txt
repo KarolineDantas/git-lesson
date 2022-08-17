@@ -1,0 +1,6 @@
+Comandos do GIT que aprendi hoje:	
+
+- git init para iniciar um repositório;
+- git add para enviar um arquivo para a área de staging;
+- git commit -m "Mensagem" para passar o arquivo presente na staging área para o repository. Também permite escrever uma mensagem;
+- git status para ver a situação atual do repositório;
