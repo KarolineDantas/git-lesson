@@ -1,4 +1,4 @@
-Comandos do GIT que aprendi hoje:	
+Comandos do GIT:	
 
 - git init para iniciar um repositório;
 
